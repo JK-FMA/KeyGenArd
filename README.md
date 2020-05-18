@@ -7,7 +7,7 @@ A idéia desse projeto e trazer uma forma de gerar uma senha de forma que se seg
 
 <hr>
 
--->coisas necessarias
+-->Coisas necessarias
  * arduino MicroPro (mas tambem pode funcionar no arduino Leonardo)
  * Tela OLED I2C
  * 4 resistores de 10 Ohms
