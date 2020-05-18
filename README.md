@@ -1,7 +1,7 @@
 # KeyGenArd
 Um gerador de senhas pessoal, que combina 3 elemento (serviço, usuário, senha interna). No final o arduino escreve automaticamente o resultado ( de tamanho de 16 caracteres)
 
-/*
+
  * Display
  * VCC -> VCC
  * GND -> GND
@@ -11,7 +11,6 @@ Um gerador de senhas pessoal, que combina 3 elemento (serviço, usuário, senha 
  * Button Next -> 5
  * Button Select -> 6
  * Button Insert -> 7
- */
 
 Não se esqueça de editar as linhas entre 30 a 35, e a linha 170 seguindo as intrusões na linha 150 
 //Aqui vai a senha interna de 8 caracteres
