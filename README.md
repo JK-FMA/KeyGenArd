@@ -2,11 +2,12 @@
 Um gerador de senhas pessoal, que combina 3 elemento (serviço, usuário, senha interna). No final o arduino escreve automaticamente o resultado ( de tamanho de 16 caracteres)
 
 
- * Display
+--> Display
  * VCC -> VCC
  * GND -> GND
  * SCL -> 3
  * SDA -> 2
+ 
  * Button Back -> 4
  * Button Next -> 5
  * Button Select -> 6
